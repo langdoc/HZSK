@@ -18,4 +18,4 @@ For the future planned corpus releases we will export the following tiers in add
 
 See also:
 
-* [FRechdoc/etf/](our ELAN tier templates)
+* [langdoc/FRechdoc/etf/](our ELAN tier templates)
