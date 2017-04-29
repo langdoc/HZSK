@@ -22,8 +22,8 @@ The Hamburg Center for Language Corpora (HZSK) is an institution providing susta
 
 ### Plans and ideas
 * Publishing multimedia corpus data from IKDP and IKDP2
-  1 Release with textual annotations only (orthography, translation)
-  2 Release with linguistic annotations (morphology and syntax)
+  1. Release with textual annotations only (orthography, translation)
+  2. Release with linguistic annotations (morphology and syntax)
 * Publishing multimedia corpus data from KSDP
   
 ## Links
